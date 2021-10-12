@@ -3,3 +3,4 @@ build:
     web: Dockerfile
 run:
   worker: /bin/sh -c bash\ start.sh
+  
